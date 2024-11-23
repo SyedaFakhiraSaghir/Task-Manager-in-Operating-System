@@ -1,0 +1,5 @@
+[0;37;45m______________________D I S K   U S A G E______________________
+[0m
+Total disk space: 25709252608 bytes
+Used disk space: 19480305664 bytes
+Available disk space: 6228946944 bytes

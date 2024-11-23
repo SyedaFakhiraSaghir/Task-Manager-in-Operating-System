@@ -1,0 +1,28 @@
+Uptime: 49986 seconds
+1 minute load average: 46432
+5 minute load average: 54560
+15 minute load average: 52992
+Total RAM: 2054426624 bytes
+Free RAM: 93618176 bytes
+Shared RAM: 58798080 bytes
+Buffer RAM: 16658432 bytes
+Total swap space: 2810179584 bytes
+Free swap space: 1376735232 bytes
+Number of processes: 767
+Total high memory size: 0 bytes
+Available high memory size: 0 bytes
+Memory unit size: 1 bytes
+Uptime: 49986 seconds
+1 minute load average: 46432
+5 minute load average: 54560
+15 minute load average: 52992
+Total RAM: 2054426624 bytes
+Free RAM: 93618176 bytes
+Shared RAM: 58798080 bytes
+Buffer RAM: 16658432 bytes
+Total swap space: 2810179584 bytes
+Free swap space: 1376735232 bytes
+Number of processes: 767
+Total high memory size: 0 bytes
+Available high memory size: 0 bytes
+Memory unit size: 1 bytes

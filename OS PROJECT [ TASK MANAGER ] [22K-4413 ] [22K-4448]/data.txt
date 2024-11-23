@@ -1,0 +1,200 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.1  0.3 167016  7388 ?        Ss   مئی04   1:08 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    مئی04   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   مئی04   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   مئی04   0:00 [rcu_par_gp]
+root           5  0.0  0.0      0     0 ?        I<   مئی04   0:00 [slub_flushwq]
+root           6  0.0  0.0      0     0 ?        I<   مئی04   0:00 [netns]
+root          11  0.0  0.0      0     0 ?        I<   مئی04   0:00 [mm_percpu_wq]
+root          12  0.0  0.0      0     0 ?        I    مئی04   0:00 [rcu_tasks_kthread]
+root          13  0.0  0.0      0     0 ?        I    مئی04   0:00 [rcu_tasks_rude_kthread]
+root          14  0.0  0.0      0     0 ?        I    مئی04   0:00 [rcu_tasks_trace_kthread]
+root          15  0.1  0.0      0     0 ?        S    مئی04   0:50 [ksoftirqd/0]
+root          16  0.0  0.0      0     0 ?        I    مئی04   0:48 [rcu_preempt]
+root          17  0.0  0.0      0     0 ?        S    مئی04   0:05 [migration/0]
+root          18  0.0  0.0      0     0 ?        S    مئی04   0:00 [idle_inject/0]
+root          19  0.0  0.0      0     0 ?        S    مئی04   0:00 [cpuhp/0]
+root          20  0.0  0.0      0     0 ?        S    مئی04   0:00 [kdevtmpfs]
+root          21  0.0  0.0      0     0 ?        I<   مئی04   0:00 [inet_frag_wq]
+root          22  0.0  0.0      0     0 ?        S    مئی04   0:00 [kauditd]
+root          24  0.0  0.0      0     0 ?        S    مئی04   0:00 [khungtaskd]
+root          25  0.0  0.0      0     0 ?        S    مئی04   0:00 [oom_reaper]
+root          27  0.0  0.0      0     0 ?        I<   مئی04   0:00 [writeback]
+root          28  0.0  0.0      0     0 ?        S    مئی04   0:30 [kcompactd0]
+root          29  0.0  0.0      0     0 ?        SN   مئی04   0:00 [ksmd]
+root          30  0.0  0.0      0     0 ?        SN   مئی04   0:00 [khugepaged]
+root          31  0.0  0.0      0     0 ?        I<   مئی04   0:00 [kintegrityd]
+root          32  0.0  0.0      0     0 ?        I<   مئی04   0:00 [kblockd]
+root          33  0.0  0.0      0     0 ?        I<   مئی04   0:00 [blkcg_punt_bio]
+root          34  0.0  0.0      0     0 ?        I<   مئی04   0:00 [tpm_dev_wq]
+root          35  0.0  0.0      0     0 ?        I<   مئی04   0:00 [ata_sff]
+root          36  0.0  0.0      0     0 ?        I<   مئی04   0:00 [md]
+root          37  0.0  0.0      0     0 ?        I<   مئی04   0:00 [md_bitmap]
+root          38  0.0  0.0      0     0 ?        I<   مئی04   0:00 [edac-poller]
+root          39  0.0  0.0      0     0 ?        I<   مئی04   0:00 [devfreq_wq]
+root          40  0.0  0.0      0     0 ?        S    مئی04   0:00 [watchdogd]
+root          42  0.3  0.0      0     0 ?        S    مئی04   2:38 [kswapd0]
+root          43  0.0  0.0      0     0 ?        S    مئی04   0:00 [ecryptfs-kthread]
+root          44  0.0  0.0      0     0 ?        I<   مئی04   0:00 [kthrotld]
+root          45  0.0  0.0      0     0 ?        I<   مئی04   0:00 [acpi_thermal_pm]
+root          46  0.0  0.0      0     0 ?        S    مئی04   0:00 [scsi_eh_0]
+root          47  0.0  0.0      0     0 ?        I<   مئی04   0:00 [scsi_tmf_0]
+root          48  0.0  0.0      0     0 ?        S    مئی04   0:00 [scsi_eh_1]
+root          49  0.0  0.0      0     0 ?        I<   مئی04   0:00 [scsi_tmf_1]
+root          54  0.0  0.0      0     0 ?        I<   مئی04   0:00 [mld]
+root          55  0.0  0.0      0     0 ?        I<   مئی04   0:00 [ipv6_addrconf]
+root          62  0.0  0.0      0     0 ?        I<   مئی04   0:00 [kstrp]
+root          64  0.0  0.0      0     0 ?        I<   مئی04   0:00 [kworker/u3:0]
+root          68  0.0  0.0      0     0 ?        I<   مئی04   0:00 [charger_manager]
+root         107  0.0  0.0      0     0 ?        S    مئی04   0:00 [scsi_eh_2]
+root         110  0.0  0.0      0     0 ?        I<   مئی04   0:00 [scsi_tmf_2]
+root         140  0.1  0.0      0     0 ?        S    مئی04   0:50 [jbd2/sda3-8]
+root         141  0.0  0.0      0     0 ?        I<   مئی04   0:00 [ext4-rsv-conver]
+root         213  0.0  0.1  26956  2944 ?        Ss   مئی04   0:01 /lib/systemd/systemd-udevd
+root         215  0.0  0.0      0     0 ?        S    مئی04   0:00 [irq/18-vmwgfx]
+root         216  0.0  0.0      0     0 ?        I<   مئی04   0:00 [ttm]
+root         299  0.0  0.0      0     0 ?        I<   مئی04   0:00 [cryptd]
+systemd+     402  0.2  0.1  14836  2688 ?        Ss   مئی04   2:29 /lib/systemd/systemd-oomd
+systemd+     403  0.1  0.1  25804  3940 ?        Ss   مئی04   1:36 /lib/systemd/systemd-resolved
+systemd+     404  0.0  0.1  89388  3200 ?        Ssl  مئی04   0:09 /lib/systemd/systemd-timesyncd
+avahi        557  0.0  0.1   7628  2560 ?        Ss   مئی04   0:01 avahi-daemon: running [ubuntu.local]
+root         558  0.0  0.1  10140  2048 ?        Ss   مئی04   0:00 /usr/sbin/cron -f -P
+message+     559  0.0  0.2  11204  4608 ?        Ss   مئی04   0:19 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         560  0.0  0.3 548728  6892 ?        Ssl  مئی04   0:19 /usr/sbin/NetworkManager --no-daemon
+root         567  0.0  0.1  41704  3704 ?        Ss   مئی04   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         568  0.0  0.3 243220  6924 ?        Ssl  مئی04   0:12 /usr/libexec/polkitd --no-debug
+syslog       569  0.0  0.1 222404  3200 ?        Ssl  مئی04   0:05 /usr/sbin/rsyslogd -n -iNONE
+root         572  0.0  0.0   2788  1536 ?        S<   مئی04   0:17 /usr/sbin/atopacctd
+root         576  0.1  0.6 1320220 13844 ?       Ssl  مئی04   1:13 /usr/lib/snapd/snapd
+root         578  0.0  0.1  16504  2432 ?        Ss   مئی04   0:01 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        584  0.0  0.0   7444   916 ?        S    مئی04   0:00 avahi-daemon: chroot helper
+root         632  0.0  0.2 317960  4076 ?        Ssl  مئی04   0:01 /usr/sbin/ModemManager
+root         646  0.0  0.1 118788  3948 ?        Ssl  مئی04   0:02 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         648  0.0  0.4 1651232 9304 ?        Ssl  مئی04   0:48 /usr/bin/containerd
+kernoops     714  0.0  0.0  13088  1560 ?        Ss   مئی04   0:00 /usr/sbin/kerneloops --test
+kernoops     716  0.0  0.0  13088  1548 ?        Ss   مئی04   0:00 /usr/sbin/kerneloops
+root         769  0.1  1.2 1839352 25128 ?       Ssl  مئی04   1:01 /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock
+root        1236  0.0  0.2 393244  4580 ?        Ssl  مئی04   0:01 /usr/libexec/udisks2/udisksd
+root        1292  0.0  0.1 240752  3944 ?        Ssl  مئی04   0:06 /usr/libexec/accounts-daemon
+root        1306  0.0  0.1 240800  3968 ?        Ssl  مئی04   0:00 /usr/libexec/power-profiles-daemon
+root        1322  0.0  0.0   2816  1920 ?        Ss   مئی04   0:02 /usr/sbin/acpid
+root        1323  0.0  0.1 237024  3584 ?        Ssl  مئی04   0:00 /usr/libexec/switcheroo-control
+root        1369  0.0  0.1 241996  3840 ?        Ssl  مئی04   0:00 /usr/sbin/gdm3
+rtkit       1417  0.0  0.1 154004  2432 ?        SNsl مئی04   0:16 /usr/libexec/rtkit-daemon
+root        1511  0.0  0.2 243276  4736 ?        Ssl  مئی04   0:17 /usr/libexec/upowerd
+root        1519  0.1  0.2 373376  4624 ?        Ssl  مئی04   1:00 /usr/libexec/packagekitd
+colord      1669  0.0  0.1 246140  3792 ?        Ssl  مئی04   0:00 /usr/libexec/colord
+root        8020  0.0  0.1  23732  3740 ?        Ss   مئی04   0:11 /lib/systemd/systemd-logind
+root        8030  0.0  0.9  56904 19456 ?        S<s  مئی04   0:17 /lib/systemd/systemd-journald
+root       10201  0.0  0.2 392632  4380 ?        Sl   مئی04   0:00 gdm-session-worker [pam/gdm-password]
+vboxuser   10209  0.0  0.2  18016  5504 ?        Ss   مئی04   0:08 /lib/systemd/systemd --user
+vboxuser   10210  0.0  0.0 170252  1228 ?        S    مئی04   0:00 (sd-pam)
+vboxuser   10216  0.0  0.1  40228  2304 ?        Ssl  مئی04   0:00 /usr/bin/pipewire
+vboxuser   10217  0.0  0.1  24256  2432 ?        Ssl  مئی04   0:00 /usr/bin/pipewire-media-session
+vboxuser   10218  1.1  0.3 1947100 7136 ?        Ssl  مئی04   7:23 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+vboxuser   10220  0.0  0.0  38952   512 ?        Ss   مئی04   0:00 /snap/snapd-desktop-integration/157/usr/bin/snapd-desktop-integration
+vboxuser   10225  0.0  0.2 241600  5152 ?        Sl   مئی04   0:01 /usr/bin/gnome-keyring-daemon --daemonize --login
+vboxuser   10229  0.0  0.2  11824  4224 ?        Ss   مئی04   0:15 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+vboxuser   10239  0.0  0.1 163096  3328 tty2     Ssl+ مئی04   0:00 /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+vboxuser   10243  0.0  0.1 537628  3968 ?        Ssl  مئی04   0:02 /usr/libexec/xdg-document-portal
+vboxuser   10247  0.0  0.1 223748  3584 tty2     Sl+  مئی04   0:00 /usr/libexec/gnome-session-binary --session=ubuntu
+vboxuser   10248  0.0  0.2 241312  4224 ?        Ssl  مئی04   0:00 /usr/libexec/gvfsd
+vboxuser   10253  0.0  0.1 236876  3584 ?        Ssl  مئی04   0:00 /usr/libexec/xdg-permission-store
+vboxuser   10262  0.0  0.1 380892  3328 ?        Sl   مئی04   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+root       10271  0.0  0.0   2796  1920 ?        Ss   مئی04   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+vboxuser   10321  0.0  0.1  92580  2816 ?        Ssl  مئی04   0:00 /usr/libexec/gnome-session-ctl --monitor
+vboxuser   10336  0.0  0.2 520024  5504 ?        Ssl  مئی04   0:02 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+vboxuser   10362  0.0  0.2 309624  4096 ?        Sl   مئی04   0:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+vboxuser   10366 12.7  9.0 3867852 182368 ?      Ssl  مئی04  82:11 /usr/bin/gnome-shell
+vboxuser   10370  0.0  0.1   8564  2560 ?        S    مئی04   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus
+vboxuser   10393  0.0  0.0 427956   780 ?        Sl   مئی04   0:00 /snap/snapd-desktop-integration/157/usr/bin/snapd-desktop-integration
+vboxuser   10396  0.0  0.2 664900  4992 ?        Sl   مئی04   0:01 /usr/libexec/gnome-shell-calendar-server
+vboxuser   10405  0.0  0.3 683728  6364 ?        Ssl  مئی04   0:02 /usr/libexec/evolution-source-registry
+vboxuser   10420  0.0  1.0 795888 20968 ?        SLl  مئی04   0:27 /usr/libexec/goa-daemon
+vboxuser   10421  0.0  0.1 157076  3968 ?        Ssl  مئی04   0:00 /usr/libexec/dconf-service
+vboxuser   10423  0.0  0.2 316768  4864 ?        Ssl  مئی04   0:01 /usr/libexec/gvfs-udisks2-volume-monitor
+vboxuser   10426  0.0  0.2 164000  4096 ?        Ssl  مئی04   0:00 /usr/libexec/gvfsd-metadata
+vboxuser   10437  0.0  1.1 754784 24048 ?        Ssl  مئی04   0:16 /usr/libexec/evolution-calendar-factory
+vboxuser   10442  0.0  0.2 316040  4096 ?        Ssl  مئی04   0:05 /usr/libexec/gvfs-afc-volume-monitor
+vboxuser   10449  0.0  0.1 339108  3840 ?        Sl   مئی04   0:00 /usr/libexec/goa-identity-service
+vboxuser   10452  0.0  0.2 238224  4096 ?        Ssl  مئی04   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+vboxuser   10458  0.0  0.2 237268  4096 ?        Ssl  مئی04   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+vboxuser   10466  0.0  0.2 237952  4736 ?        Ssl  مئی04   0:00 /usr/libexec/gvfs-goa-volume-monitor
+vboxuser   10481  0.0  0.2 681308  4480 ?        Ssl  مئی04   0:00 /usr/libexec/evolution-addressbook-factory
+vboxuser   10502  0.0  0.2 316208  4736 ?        Sl   مئی04   0:00 /usr/libexec/gvfsd-trash --spawner :1.8 /org/gtk/gvfs/exec_spaw/0
+vboxuser   10516  0.0  0.3 2526352 7432 ?        Sl   مئی04   0:01 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+vboxuser   10517  0.0  0.1 162684  3840 ?        Sl   مئی04   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+vboxuser   10527  0.0  0.0   2892  1664 ?        Ss   مئی04   0:00 sh -c /usr/bin/ibus-daemon --panel disable $([ "$XDG_SESSION_TYPE" = "x11" ] && echo "--xim")
+vboxuser   10528  0.0  0.1 311132  3968 ?        Ssl  مئی04   0:00 /usr/libexec/gsd-a11y-settings
+vboxuser   10531  0.0  0.2 451760  5380 ?        Ssl  مئی04   0:01 /usr/libexec/gsd-color
+vboxuser   10533  0.1  0.3 315756  6048 ?        Sl   مئی04   0:54 /usr/bin/ibus-daemon --panel disable
+vboxuser   10534  0.0  0.2 376176  4224 ?        Ssl  مئی04   0:00 /usr/libexec/gsd-datetime
+vboxuser   10537  0.0  0.2 312632  4224 ?        Ssl  مئی04   0:04 /usr/libexec/gsd-housekeeping
+vboxuser   10539  0.0  0.2 340768  4868 ?        Ssl  مئی04   0:00 /usr/libexec/gsd-keyboard
+vboxuser   10545  0.0  0.3 643640  6788 ?        Ssl  مئی04   0:02 /usr/libexec/gsd-media-keys
+vboxuser   10546  0.0  0.3 716240  6780 ?        Ssl  مئی04   0:05 /usr/libexec/gsd-power
+vboxuser   10549  0.0  0.2 250564  4608 ?        Ssl  مئی04   0:00 /usr/libexec/gsd-print-notifications
+vboxuser   10551  0.0  0.2 458564  4096 ?        Ssl  مئی04   0:00 /usr/libexec/gsd-rfkill
+vboxuser   10553  0.0  0.1 236996  3968 ?        Ssl  مئی04   0:00 /usr/libexec/gsd-screensaver-proxy
+vboxuser   10554  0.0  0.2 466656  4736 ?        Ssl  مئی04   0:00 /usr/libexec/gsd-sharing
+vboxuser   10557  0.0  0.1 386748  3968 ?        Ssl  مئی04   0:00 /usr/libexec/gsd-smartcard
+vboxuser   10559  0.0  0.2 320048  4096 ?        Ssl  مئی04   0:00 /usr/libexec/gsd-sound
+vboxuser   10565  0.0  0.2 341352  4996 ?        Ssl  مئی04   0:00 /usr/libexec/gsd-wacom
+vboxuser   10597  0.0  0.1 232268  3456 ?        Sl   مئی04   0:00 /usr/libexec/gsd-disk-utility-notify
+vboxuser   10612  0.0  0.1 343064  3712 ?        Sl   مئی04   0:00 /usr/libexec/gsd-printer
+vboxuser   10614  0.0  0.1 237988  3456 ?        Sl   مئی04   0:00 /usr/libexec/ibus-dconf
+vboxuser   10617  0.0  0.2 348004  5784 ?        Sl   مئی04   0:12 /usr/libexec/ibus-extension-gtk3
+vboxuser   10627  0.0  0.2 237932  4096 ?        Sl   مئی04   0:01 /usr/libexec/ibus-portal
+vboxuser   10629  0.0  0.2 823384  5764 ?        Sl   مئی04   0:05 /usr/libexec/evolution-data-server/evolution-alarm-notify
+vboxuser   10680  0.0  0.2 716908  4700 ?        Sl   مئی04   0:18 /snap/snap-store/1113/usr/bin/snap-store --gapplication-service
+vboxuser   10765  0.0  0.2 164420  4352 ?        Sl   مئی04   0:15 /usr/libexec/ibus-engine-simple
+vboxuser   10789  0.0  0.3 624484  6144 ?        Ssl  مئی04   0:05 /usr/libexec/xdg-desktop-portal
+vboxuser   10793  0.0  0.3 663220  6628 ?        Ssl  مئی04   0:04 /usr/libexec/xdg-desktop-portal-gnome
+vboxuser   10809  0.0  0.3 2600176 6792 ?        Sl   مئی04   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.ScreenSaver
+vboxuser   10820  0.0  0.3 344688  6020 ?        Ssl  مئی04   0:02 /usr/libexec/xdg-desktop-portal-gtk
+vboxuser   11665  0.0  0.0 1163576 1408 ?        Sl   مئی04   0:03 /usr/bin/snap userd
+vboxuser   12114  0.0  0.2 345944  5636 ?        Sl   مئی04   0:03 update-notifier
+vboxuser   13046  0.0  1.1 730572 22168 ?        SNsl مئی04   0:31 /usr/libexec/tracker-miner-fs-3
+vboxuser   22554  0.0  1.7 738064 35884 ?        Sl   مئی04   0:22 /usr/bin/nautilus --gapplication-service
+vboxuser   23928  0.0  0.3 831160  6288 ?        Sl   مئی04   0:01 /usr/bin/gnome-calendar --gapplication-service
+vboxuser   25375  0.0  0.1 118520  2864 ?        Ssl  مئی04   0:01 /usr/bin/speech-dispatcher -s -t 0
+vboxuser   25386  0.0  0.0      0     0 ?        Z    مئی04   0:00 [sd_espeak-ng-mb] <defunct>
+vboxuser   25389  0.0  0.1 106260  3328 ?        Sl   مئی04   0:00 /usr/lib/speech-dispatcher-modules/sd_espeak-ng /etc/speech-dispatcher/modules/espeak-ng.conf
+vboxuser   25392  0.0  0.1 358220  2944 ?        Sl   مئی04   0:03 /usr/lib/speech-dispatcher-modules/sd_dummy /etc/speech-dispatcher/modules/dummy.conf
+root       26801  0.0  0.2  74084  5248 ?        Ss   00:09   0:00 /usr/sbin/cupsd -l
+root       26803  0.0  0.2 172632  5376 ?        Ssl  00:10   0:00 /usr/sbin/cups-browsed
+root       26859  0.0  0.6  13544 13416 ?        S<Ls 00:10   0:04 /usr/bin/atop -R -w /var/log/atop/atop_20240505 600
+vboxuser   26903  0.1  1.1 2796160 23648 ?       Sl   00:11   0:10 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com -M 0 -D 0:0:1280:800:1:27:0:0:0:0
+vboxuser   27063  4.7 12.3 11999980 246920 ?     Sl   00:19   6:27 /snap/firefox/4173/usr/lib/firefox/firefox
+vboxuser   27179  0.0  0.4 210692  8320 ?        Sl   00:19   0:00 /snap/firefox/4173/usr/lib/firefox/firefox -contentproc -parentBuildID 20240419214016 -prefsLen 31448 -prefMapSize 242482 -appDir /snap/firefox/4173/usr/lib/firefox/browser {0ed43ee5-12b4-492d-b5a2-c027dabdd563} 27063 true socket
+vboxuser   27193  0.1  2.8 2458128 58032 ?       Sl   00:19   0:08 /snap/firefox/4173/usr/lib/firefox/firefox -contentproc -childID 1 -isForBrowser -prefsLen 31589 -prefMapSize 242482 -jsInitLen 234952 -parentBuildID 20240419214016 -greomni /snap/firefox/4173/usr/lib/firefox/omni.ja -appomni /snap/firefox/4173/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4173/usr/lib/firefox/browser {4f61e527-a6de-464a-8088-e3f80f6c897b} 27063 true tab
+vboxuser   27224  0.2  1.8 2429716 37620 ?       Sl   00:19   0:20 /snap/firefox/4173/usr/lib/firefox/firefox -contentproc -childID 2 -isForBrowser -prefsLen 25762 -prefMapSize 242482 -jsInitLen 234952 -parentBuildID 20240419214016 -greomni /snap/firefox/4173/usr/lib/firefox/omni.ja -appomni /snap/firefox/4173/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4173/usr/lib/firefox/browser {02a45c5e-c9ae-4ba0-a0a0-3c4bed87ccde} 27063 true tab
+vboxuser   27227  1.7 10.4 2955392 209768 ?      Sl   00:19   2:23 /snap/firefox/4173/usr/lib/firefox/firefox -contentproc -childID 3 -isForBrowser -prefsLen 25762 -prefMapSize 242482 -jsInitLen 234952 -parentBuildID 20240419214016 -greomni /snap/firefox/4173/usr/lib/firefox/omni.ja -appomni /snap/firefox/4173/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4173/usr/lib/firefox/browser {4e57f20b-c22b-49a5-a9a8-fecc1f6835af} 27063 true tab
+vboxuser   27230  0.1  2.4 2509156 49476 ?       Sl   00:19   0:14 /snap/firefox/4173/usr/lib/firefox/firefox -contentproc -childID 4 -isForBrowser -prefsLen 25762 -prefMapSize 242482 -jsInitLen 234952 -parentBuildID 20240419214016 -greomni /snap/firefox/4173/usr/lib/firefox/omni.ja -appomni /snap/firefox/4173/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4173/usr/lib/firefox/browser {210c0571-57bb-4961-b6c0-290a9e3ba035} 27063 true tab
+vboxuser   27404  0.0  1.0 2418416 20140 ?       Sl   00:19   0:01 /snap/firefox/4173/usr/lib/firefox/firefox -contentproc -childID 5 -isForBrowser -prefsLen 37310 -prefMapSize 242482 -jsInitLen 234952 -parentBuildID 20240419214016 -greomni /snap/firefox/4173/usr/lib/firefox/omni.ja -appomni /snap/firefox/4173/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4173/usr/lib/firefox/browser {713ac982-ed15-4284-a1f0-a817feb1553e} 27063 true tab
+vboxuser   27664  0.0  0.5 344372 10752 ?        Sl   00:19   0:00 /snap/firefox/4173/usr/lib/firefox/firefox -contentproc -parentBuildID 20240419214016 -sandboxingKind 0 -prefsLen 37310 -prefMapSize 242482 -appDir /snap/firefox/4173/usr/lib/firefox/browser {3577e94a-8add-4519-bdde-212b9f7d7ba4} 27063 true utility
+vboxuser   27687  0.0  2.2 2450140 45772 ?       Sl   00:20   0:07 /snap/firefox/4173/usr/lib/firefox/firefox -contentproc -childID 6 -isForBrowser -prefsLen 31541 -prefMapSize 242482 -jsInitLen 234952 -parentBuildID 20240419214016 -greomni /snap/firefox/4173/usr/lib/firefox/omni.ja -appomni /snap/firefox/4173/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4173/usr/lib/firefox/browser {ed42a8b8-097c-4ef6-8a90-b65b9daf1773} 27063 true tab
+vboxuser   27729  2.1  7.7 6956916 155164 ?      Sl   00:20   2:50 /snap/firefox/4173/usr/lib/firefox/firefox -contentproc -childID 7 -isForBrowser -prefsLen 31541 -prefMapSize 242482 -jsInitLen 234952 -parentBuildID 20240419214016 -greomni /snap/firefox/4173/usr/lib/firefox/omni.ja -appomni /snap/firefox/4173/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4173/usr/lib/firefox/browser {025e56f9-e208-472b-9a62-e040963f1263} 27063 true tab
+vboxuser   27795  0.0  0.4 343348  9344 ?        Sl   00:21   0:00 /snap/firefox/4173/usr/lib/firefox/firefox -contentproc -parentBuildID 20240419214016 -prefsLen 37466 -prefMapSize 242482 -appDir /snap/firefox/4173/usr/lib/firefox/browser {abf555ec-1cbc-42fa-acfe-447467f0460a} 27063 true rdd
+vboxuser   28449  0.3 11.6 2750924 233744 ?      Sl   01:00   0:20 /snap/firefox/4173/usr/lib/firefox/firefox -contentproc -childID 8 -isForBrowser -prefsLen 31541 -prefMapSize 242482 -jsInitLen 234952 -parentBuildID 20240419214016 -greomni /snap/firefox/4173/usr/lib/firefox/omni.ja -appomni /snap/firefox/4173/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4173/usr/lib/firefox/browser {e53be97b-3070-4e80-b207-92b75bc66a06} 27063 true tab
+vboxuser   28475  0.4  8.8 2844544 177188 ?      Sl   01:00   0:23 /snap/firefox/4173/usr/lib/firefox/firefox -contentproc -childID 9 -isForBrowser -prefsLen 31541 -prefMapSize 242482 -jsInitLen 234952 -parentBuildID 20240419214016 -greomni /snap/firefox/4173/usr/lib/firefox/omni.ja -appomni /snap/firefox/4173/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4173/usr/lib/firefox/browser {6c10ce0c-b28f-431f-9bda-904835e99dcf} 27063 true tab
+vboxuser   28572  0.0  1.5 2390036 31228 ?       Sl   01:02   0:00 /snap/firefox/4173/usr/lib/firefox/firefox -contentproc -childID 10 -isForBrowser -prefsLen 31541 -prefMapSize 242482 -jsInitLen 234952 -parentBuildID 20240419214016 -greomni /snap/firefox/4173/usr/lib/firefox/omni.ja -appomni /snap/firefox/4173/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4173/usr/lib/firefox/browser {b2151cda-033c-4722-b717-dc7c65d70a13} 27063 true tab
+root       29126  0.2  0.0      0     0 ?        I    01:17   0:09 [kworker/0:2-events]
+root       29637  0.1  0.0      0     0 ?        I    01:37   0:06 [kworker/u2:3-events_power_efficient]
+vboxuser   30032  0.0  1.5 2390044 31616 ?       Sl   01:48   0:00 /snap/firefox/4173/usr/lib/firefox/firefox -contentproc -childID 11 -isForBrowser -prefsLen 31541 -prefMapSize 242482 -jsInitLen 234952 -parentBuildID 20240419214016 -greomni /snap/firefox/4173/usr/lib/firefox/omni.ja -appomni /snap/firefox/4173/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4173/usr/lib/firefox/browser {3c4caeb4-635c-42b2-b93a-03bc3277262f} 27063 true tab
+vboxuser   30060  0.0  1.5 2390040 31360 ?       Sl   01:48   0:00 /snap/firefox/4173/usr/lib/firefox/firefox -contentproc -childID 12 -isForBrowser -prefsLen 31541 -prefMapSize 242482 -jsInitLen 234952 -parentBuildID 20240419214016 -greomni /snap/firefox/4173/usr/lib/firefox/omni.ja -appomni /snap/firefox/4173/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4173/usr/lib/firefox/browser {e10b4aa7-9dbc-436d-9046-46de6a7db331} 27063 true tab
+root       30816  0.2  0.0      0     0 ?        I<   02:08   0:03 [kworker/0:1H-kblockd]
+root       30885  0.1  0.0      0     0 ?        I    02:09   0:02 [kworker/u2:2-events_unbound]
+vboxuser   31259  0.7  2.6 564960 52260 ?        Ssl  02:18   0:07 /usr/libexec/gnome-terminal-server
+vboxuser   31277  0.0  0.2  12084  5632 pts/0    Ss   02:18   0:00 bash
+root       31591  0.1  0.0      0     0 ?        I    02:23   0:00 [kworker/u2:0-flush-8:0]
+root       31621  0.0  0.5 711888 11648 ?        S<sl 02:24   0:00 /bin/brltty --no-daemon
+vboxuser   31848  6.7  3.3 576588 66724 ?        Sl   02:26   0:34 /usr/bin/gedit --gapplication-service
+root       31955  0.0  0.0      0     0 ?        I<   02:28   0:00 [kworker/0:0H-kblockd]
+root       31999  0.0  0.0      0     0 ?        I    02:29   0:00 [kworker/0:1-events]
+root       32021  0.1  0.0      0     0 ?        I    02:29   0:00 [kworker/u2:1-events_unbound]
+vboxuser   32357  2.4  2.0 549884 41988 pts/0    Sl+  02:34   0:01 ./output
+root       32378  0.3  0.0      0     0 ?        I<   02:34   0:00 [kworker/0:2H-kblockd]
+vboxuser   32400  0.5  1.6 473636 32104 ?        SNsl 02:35   0:00 /usr/libexec/tracker-extract-3
+vboxuser   32421  0.0  0.0   2892  1664 pts/0    S+   02:35   0:00 sh -c ps aux
+vboxuser   32422  0.0  0.1  13344  3584 pts/0    R+   02:35   0:00 ps aux

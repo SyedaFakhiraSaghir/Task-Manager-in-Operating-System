@@ -1,0 +1,6 @@
+______________________________Memory Usage______________________________
+Memory usage: 1485
+Free Memory: 98200
+Buffers: 15192
+Cache: 408072
+Total Memory: 2006276
